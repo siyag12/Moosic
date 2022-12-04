@@ -1,0 +1,160 @@
+mean_fit_time,[17.62070718  9.63186932  1.61504335 17.44137607 14.39265637  2.5039166
+ 17.47645235 14.37954845  7.71780672 17.72719598  9.63995466  6.091783
+ 17.50459428 14.34841456  2.62030454 17.59596291 14.36227427  8.57258973
+ 16.9663383   9.62250309  2.44807935 16.97296615 14.46251073  2.89648271
+ 17.15584898 14.72455068  8.25276074 22.00275578  5.57122493  3.05383668
+ 22.09594321  8.04540486  1.61823115 22.19395671 15.83808484  4.15609407
+ 22.28432078  5.20929079  8.22980633 22.56576433  7.75047798  1.62232223
+ 22.25169644 15.5439827   4.67148461 22.39641452  5.22083764  6.89150653
+ 21.82592149  7.74697452  1.91377163 21.85031691 15.83211308  4.65241103
+ 10.28096538 10.34977593  3.02777267 10.27475686 11.29816666  4.75186639
+ 10.80680799 10.9625227   9.1472764  10.63021417 10.28285117  3.46707377
+ 10.66263995 11.33024111  5.20528693 10.18096662 11.257479   12.12169414
+ 10.98669586 10.50859218  3.23394513 10.51747675 11.65949116  5.60601096
+ 10.37847385 11.2309103  10.47638125]
+std_fit_time,[1.15439373 0.76302096 0.17382806 0.92239606 0.0291598  0.30830894
+ 0.92949388 0.0232497  0.75977214 0.84074101 0.7601793  3.63964128
+ 0.82864158 0.05084731 0.37099984 0.91658923 0.06939783 1.17011048
+ 0.17198165 0.77884926 0.9849346  0.18580958 0.20514832 0.8374185
+ 0.1964806  0.74949329 0.95145183 0.23105365 0.93049289 1.31877721
+ 0.16528412 0.91505008 0.58847873 0.23643    1.01690041 0.50388545
+ 0.87826408 0.88301957 3.11713771 0.92701901 0.99658811 0.58959706
+ 0.87384727 0.70344645 0.54663904 1.02806383 0.86243388 3.71519872
+ 0.18887973 0.97979367 0.51830064 0.14915394 1.1330959  0.55678324
+ 0.0798109  1.05347946 0.89841027 0.07946985 0.03828227 1.80465841
+ 0.77415644 0.04045942 1.80545961 0.79576406 1.15533292 0.45381408
+ 0.97485653 0.08168344 0.13432998 0.14093175 0.49446218 0.37864692
+ 1.03465234 1.24397814 0.8500238  0.12280883 0.67218825 1.64271211
+ 0.10028542 0.64580827 1.60003729]
+mean_score_time,[0.00800939 0.00781369 0.00767446 0.00816002 0.0082767  0.00793495
+ 0.00785732 0.0081224  0.00855513 0.00869565 0.00740342 0.00809379
+ 0.00833664 0.00963225 0.00774336 0.00858626 0.00921402 0.00922642
+ 0.00788779 0.00936818 0.0081677  0.00848093 0.01048279 0.00762434
+ 0.0083683  0.00864301 0.00749874 0.00973153 0.00912685 0.0082612
+ 0.00969558 0.00827427 0.0080677  0.00970473 0.00972986 0.00787401
+ 0.00958619 0.00877218 0.00896792 0.01087928 0.00815706 0.00789728
+ 0.01039367 0.0085465  0.00835929 0.00986118 0.00831327 0.0090662
+ 0.01003585 0.00974298 0.01137605 0.01006165 0.00874248 0.00802236
+ 0.00555854 0.00695238 0.00531201 0.00560007 0.0057363  0.00640616
+ 0.00595112 0.00562572 0.00544939 0.00795002 0.00554943 0.00521641
+ 0.00640941 0.00583525 0.00600963 0.00539947 0.00666461 0.00657883
+ 0.00758762 0.00560832 0.00613575 0.0054327  0.00632391 0.00552454
+ 0.00559273 0.00590377 0.00629606]
+std_score_time,[1.29847267e-04 2.45710861e-04 3.04392204e-04 7.45884477e-04
+ 4.50228827e-04 2.84714376e-04 3.72310929e-04 4.01401945e-04
+ 1.45898087e-03 6.86157570e-05 1.29275417e-04 3.75991539e-04
+ 4.70783879e-04 2.78054176e-03 3.63851311e-04 1.46075510e-03
+ 1.80796242e-03 3.31407894e-03 4.11273677e-04 2.67023298e-03
+ 1.04250224e-03 1.42353929e-03 3.32105435e-03 4.11856800e-04
+ 3.44575787e-04 9.45706131e-04 3.30236740e-04 5.55468545e-04
+ 1.25261043e-03 3.47038336e-04 1.63290892e-04 3.32881840e-04
+ 3.74013620e-04 2.51557774e-04 2.63891828e-03 1.53077354e-04
+ 3.75434508e-04 1.25343801e-03 1.32001318e-03 2.58260568e-03
+ 2.16513760e-04 1.58237073e-04 8.22499376e-04 2.82054101e-04
+ 3.36749633e-04 3.84766855e-04 3.16068466e-04 1.37744782e-03
+ 3.65437670e-04 3.64733878e-03 4.24359893e-03 4.17240268e-04
+ 1.20954536e-03 2.78458668e-04 3.12565299e-04 2.69658360e-03
+ 3.66924052e-04 6.90428403e-04 6.63251955e-04 1.97198092e-03
+ 3.66315398e-04 4.52152547e-04 6.22926759e-04 3.21788360e-03
+ 4.74453092e-04 1.55312780e-04 1.60887188e-03 3.92612653e-04
+ 8.95121482e-04 4.35981891e-04 2.00454164e-03 1.26562812e-03
+ 3.70899230e-03 3.25449692e-04 1.52740652e-03 1.88916816e-04
+ 7.69936832e-04 2.61706704e-04 3.75157543e-04 2.74263676e-04
+ 2.38741140e-03]
+param_activation,['logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu'
+ 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu'
+ 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu']
+param_alpha,[0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.0001 0.0001
+ 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.001 0.001 0.001 0.001
+ 0.001 0.001 0.001 0.001 0.001 0.005 0.005 0.005 0.005 0.005 0.005 0.005
+ 0.005 0.005 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+ 0.0001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.005 0.005
+ 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.0001 0.0001 0.0001 0.0001
+ 0.0001 0.0001 0.0001 0.0001 0.0001 0.001 0.001 0.001 0.001 0.001 0.001
+ 0.001 0.001 0.001]
+param_learning_rate_init,[0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005
+ 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001
+ 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01
+ 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005
+ 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01
+ 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005
+ 0.005 0.001 0.001 0.001]
+param_solver,['lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam'
+ 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam'
+ 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam']
+params,[{'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}]
+split0_test_score,[0.767 0.69  0.704 0.767 0.689 0.698 0.767 0.609 0.7   0.765 0.69  0.753
+ 0.765 0.69  0.693 0.765 0.609 0.698 0.762 0.69  0.703 0.762 0.69  0.691
+ 0.762 0.609 0.698 0.76  0.691 0.725 0.76  0.691 0.69  0.76  0.687 0.691
+ 0.773 0.69  0.744 0.773 0.691 0.688 0.773 0.687 0.69  0.754 0.69  0.745
+ 0.754 0.691 0.689 0.754 0.687 0.69  0.767 0.73  0.765 0.767 0.712 0.757
+ 0.767 0.692 0.739 0.736 0.731 0.763 0.736 0.711 0.756 0.736 0.692 0.751
+ 0.755 0.731 0.76  0.755 0.711 0.764 0.755 0.692 0.739]
+split1_test_score,[0.754 0.703 0.712 0.754 0.702 0.703 0.754 0.611 0.703 0.761 0.704 0.71
+ 0.761 0.702 0.697 0.761 0.611 0.701 0.764 0.704 0.712 0.764 0.702 0.697
+ 0.764 0.611 0.701 0.768 0.709 0.707 0.768 0.707 0.693 0.768 0.7   0.714
+ 0.756 0.71  0.755 0.756 0.707 0.695 0.756 0.7   0.712 0.747 0.71  0.758
+ 0.747 0.707 0.694 0.747 0.7   0.712 0.765 0.742 0.756 0.765 0.723 0.753
+ 0.765 0.704 0.75  0.79  0.743 0.764 0.79  0.722 0.78  0.79  0.704 0.756
+ 0.773 0.744 0.755 0.773 0.722 0.773 0.773 0.704 0.752]
+split2_test_score,[0.76  0.709 0.717 0.76  0.704 0.728 0.76  0.586 0.718 0.769 0.708 0.761
+ 0.769 0.704 0.731 0.769 0.587 0.713 0.763 0.708 0.712 0.763 0.703 0.731
+ 0.763 0.587 0.715 0.781 0.709 0.715 0.781 0.704 0.706 0.781 0.695 0.713
+ 0.768 0.709 0.774 0.768 0.703 0.707 0.768 0.695 0.721 0.767 0.709 0.718
+ 0.767 0.703 0.707 0.767 0.695 0.719 0.779 0.755 0.769 0.779 0.739 0.75
+ 0.779 0.703 0.771 0.782 0.755 0.758 0.782 0.738 0.763 0.782 0.704 0.767
+ 0.769 0.755 0.782 0.769 0.738 0.766 0.769 0.704 0.766]
+split3_test_score,[0.761 0.712 0.726 0.761 0.715 0.714 0.761 0.586 0.726 0.781 0.713 0.77
+ 0.781 0.714 0.727 0.781 0.587 0.726 0.769 0.712 0.729 0.769 0.714 0.727
+ 0.769 0.586 0.726 0.77  0.722 0.73  0.77  0.722 0.717 0.77  0.712 0.724
+ 0.776 0.722 0.773 0.776 0.722 0.716 0.776 0.712 0.726 0.784 0.722 0.775
+ 0.784 0.722 0.716 0.784 0.712 0.727 0.779 0.752 0.758 0.779 0.735 0.77
+ 0.779 0.713 0.762 0.76  0.746 0.769 0.76  0.737 0.763 0.76  0.714 0.769
+ 0.773 0.751 0.766 0.773 0.737 0.775 0.773 0.714 0.756]
+split4_test_score,[0.754 0.693 0.705 0.754 0.701 0.686 0.754 0.633 0.699 0.756 0.694 0.71
+ 0.756 0.701 0.692 0.756 0.632 0.697 0.753 0.693 0.709 0.753 0.701 0.691
+ 0.753 0.633 0.697 0.754 0.703 0.718 0.754 0.705 0.71  0.754 0.695 0.702
+ 0.743 0.703 0.719 0.743 0.705 0.716 0.743 0.695 0.703 0.739 0.703 0.717
+ 0.739 0.705 0.714 0.739 0.695 0.703 0.763 0.734 0.77  0.763 0.716 0.746
+ 0.763 0.702 0.74  0.742 0.732 0.775 0.742 0.716 0.751 0.742 0.702 0.744
+ 0.763 0.732 0.752 0.763 0.717 0.752 0.763 0.702 0.739]
+mean_test_score,[0.7592 0.7014 0.7128 0.7592 0.7022 0.7058 0.7592 0.605  0.7092 0.7664
+ 0.7018 0.7408 0.7664 0.7022 0.708  0.7664 0.6052 0.707  0.7622 0.7014
+ 0.713  0.7622 0.702  0.7074 0.7622 0.6052 0.7074 0.7666 0.7068 0.719
+ 0.7666 0.7058 0.7032 0.7666 0.6978 0.7088 0.7632 0.7068 0.753  0.7632
+ 0.7056 0.7044 0.7632 0.6978 0.7104 0.7582 0.7068 0.7426 0.7582 0.7056
+ 0.704  0.7582 0.6978 0.7102 0.7706 0.7426 0.7636 0.7706 0.725  0.7552
+ 0.7706 0.7028 0.7524 0.762  0.7414 0.7658 0.762  0.7248 0.7626 0.762
+ 0.7032 0.7574 0.7666 0.7426 0.763  0.7666 0.725  0.766  0.7666 0.7032
+ 0.7504]
+std_test_score,[0.00487442 0.00863944 0.00813388 0.00487442 0.0082801  0.01428846
+ 0.00487442 0.0176522  0.01083328 0.00847585 0.00858836 0.02571692
+ 0.00847585 0.00765245 0.01727426 0.00847585 0.01690444 0.01108152
+ 0.0051923  0.00852291 0.0086487  0.0051923  0.00761577 0.01781685
+ 0.0051923  0.01744018 0.01132431 0.0092     0.01004789 0.00797496
+ 0.0092     0.00986712 0.01022546 0.0092     0.00823165 0.0113031
+ 0.01218852 0.01041921 0.02040588 0.01218852 0.00991161 0.01125344
+ 0.01218852 0.00823165 0.01287789 0.01584172 0.01041921 0.02259734
+ 0.01584172 0.00991161 0.01075174 0.01584172 0.00823165 0.01282809
+ 0.00697424 0.00974885 0.00567803 0.00697424 0.01048809 0.00823165
+ 0.00697424 0.00667533 0.01246756 0.0212791  0.00900222 0.00577581
+ 0.0212791  0.01094349 0.0098102  0.0212791  0.00699714 0.0094784
+ 0.00685857 0.00972831 0.01062073 0.00685857 0.01078888 0.00812404
+ 0.00685857 0.00699714 0.01036533]
+rank_test_score,[27 74 48 27 71 61 27 81 51 10 73 42 10 70 53 10 79 56 21 74 47 21 72 55
+ 21 80 54  4 57 46  4 60 66  4 76 52 16 57 35 16 62 64 16 76 49 30 57 38
+ 30 62 65 30 76 50  1 38 15  1 43 34  1 69 36 24 41 14 24 45 20 24 67 33
+  4 38 19  4 43 13  4 67 37]

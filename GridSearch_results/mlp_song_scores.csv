@@ -1,0 +1,170 @@
+mean_fit_time,[ 6.92880096  3.35117574  0.62138743  6.8086307   4.2120574   0.97465215
+  7.20046177 10.27809663  2.76439881  3.72423005  3.48895321  0.6835001
+  3.78010402  4.64726477  0.9925354   3.77337418 10.4588954   2.65341692
+  5.72555227  3.58068037  1.04221144  6.29570675  4.33708882  1.01268559
+  5.54295254 10.309198    2.62591124  9.73169732  1.9549994   0.5268446
+  9.36541862  2.25696783  0.56171446  9.78165822  3.74026632  1.62659578
+  3.73835387  1.95496864  0.54316492  3.63587561  2.258424    0.56889224
+  3.68005452  3.75046229  1.65564189  4.71834636  1.96439919  0.52485752
+  4.39369769  2.3204668   0.56157446  4.46869364  3.73783503  1.64860277
+  9.38860321  1.23553982  0.57280884  9.23059411  1.52885652  0.70778618
+  9.17435918  2.46647677  1.79948263  9.03220167  1.2490262   0.54092555
+  8.73475938  1.53695002  0.73069143  8.63486571  2.47033577  2.20818324
+  8.71039648  1.23664355  0.53129711  8.66526551  1.5143847   0.74408727
+  8.93376918  2.50749292  1.80521498]
+std_fit_time,[0.59241708 0.2259736  0.12694301 0.55800142 0.19113325 0.09897553
+ 0.77056072 0.17098922 0.30423622 0.42766767 0.2292605  0.16876682
+ 0.42042483 0.66263891 0.08950346 0.54370855 0.2385543  0.27037926
+ 1.54025412 0.48456064 0.45504907 1.737348   0.08798038 0.0788486
+ 1.62091326 0.23551494 0.22974949 1.47904014 0.17434633 0.09741952
+ 1.52515776 0.25359515 0.03280598 1.58905177 0.04553104 0.09645611
+ 0.34700297 0.22761933 0.09236171 0.40281526 0.23340412 0.031729
+ 0.31060841 0.09628707 0.16071812 0.55745634 0.18459614 0.08718235
+ 0.27076844 0.22210119 0.03143365 0.26496502 0.08924458 0.17731879
+ 3.92603566 0.10563205 0.15344566 3.57148665 0.15480952 0.18157478
+ 3.50016519 0.11966605 0.63587159 3.73627534 0.11269379 0.15229178
+ 3.49026061 0.15241177 0.21806946 3.64722667 0.06528517 0.73323913
+ 2.44201148 0.11054568 0.15142007 2.46843343 0.16462333 0.21073111
+ 2.6356178  0.09853965 0.6541705 ]
+mean_score_time,[0.00397792 0.00411835 0.00399299 0.00386443 0.00401902 0.0044188
+ 0.00410218 0.0044446  0.00496383 0.0040174  0.00427461 0.00407696
+ 0.00424285 0.00413961 0.00415411 0.00584235 0.00447655 0.00595789
+ 0.00396047 0.00470476 0.01045785 0.00399852 0.00405059 0.0043077
+ 0.00469031 0.00418673 0.0042367  0.00462656 0.00452762 0.00421786
+ 0.00431499 0.00416961 0.00448799 0.00403376 0.00422649 0.0042726
+ 0.00437803 0.00452881 0.00433831 0.00557365 0.00573168 0.00441756
+ 0.00447369 0.00432558 0.0038064  0.00438309 0.00424104 0.0043489
+ 0.0047749  0.00461383 0.00421495 0.00435081 0.00411139 0.00400338
+ 0.00308642 0.00353069 0.00416775 0.00328074 0.00344739 0.0032937
+ 0.00357041 0.00335484 0.00332241 0.0033494  0.00353289 0.00376248
+ 0.00508213 0.0033711  0.00303836 0.00312533 0.00328751 0.00547295
+ 0.00348067 0.00342813 0.00345945 0.00308385 0.00341854 0.00347281
+ 0.00324864 0.00378361 0.00319743]
+std_score_time,[1.81919569e-04 3.22137491e-04 5.50158091e-05 2.45429739e-04
+ 1.39482408e-04 4.28530012e-04 4.29560029e-04 2.30650082e-04
+ 8.40130841e-04 2.33789636e-04 1.76595983e-04 1.85197622e-04
+ 2.36683320e-04 3.41054270e-04 3.49737565e-04 3.59144782e-03
+ 2.76684818e-04 2.37846237e-03 2.72950295e-04 1.22591535e-03
+ 9.17102213e-03 4.44614304e-04 1.57964902e-04 1.22252474e-04
+ 1.47447856e-03 2.24027039e-04 4.44947916e-04 3.17881924e-04
+ 2.53323006e-04 2.32802674e-04 4.14571467e-04 2.98420054e-04
+ 2.62158721e-04 9.35198388e-05 2.23623277e-04 4.28635831e-04
+ 2.23316205e-04 8.07016221e-04 1.82727172e-04 3.25716803e-03
+ 3.51927499e-03 1.04016821e-04 5.84818934e-04 1.05236827e-04
+ 1.28205578e-04 3.95324836e-04 4.36381594e-04 2.28087148e-04
+ 5.23285899e-04 6.54421006e-04 3.19677705e-04 2.34665252e-04
+ 2.84452074e-04 1.66719183e-04 2.15280787e-04 4.02172934e-04
+ 1.72664003e-03 2.31570977e-04 1.87875208e-04 3.21904901e-04
+ 2.45921505e-04 2.31748962e-04 3.10953090e-04 2.38438443e-04
+ 1.04487197e-04 3.53946590e-04 3.57206438e-03 3.13198523e-04
+ 1.16549322e-04 3.11142607e-04 2.84317345e-04 2.71106334e-03
+ 1.96096404e-04 2.40035752e-04 4.00099793e-04 2.55970282e-04
+ 4.06596576e-04 1.29665781e-04 4.05330080e-04 8.47114727e-04
+ 2.65262544e-04]
+param_activation,['logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'logistic' 'logistic' 'logistic'
+ 'logistic' 'logistic' 'logistic' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh' 'tanh'
+ 'tanh' 'tanh' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu'
+ 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu'
+ 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu' 'relu']
+param_alpha,[0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.0001 0.0001
+ 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.001 0.001 0.001 0.001
+ 0.001 0.001 0.001 0.001 0.001 0.005 0.005 0.005 0.005 0.005 0.005 0.005
+ 0.005 0.005 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001 0.0001
+ 0.0001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.005 0.005
+ 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.0001 0.0001 0.0001 0.0001
+ 0.0001 0.0001 0.0001 0.0001 0.0001 0.001 0.001 0.001 0.001 0.001 0.001
+ 0.001 0.001 0.001]
+param_learning_rate_init,[0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005
+ 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001
+ 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01
+ 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005
+ 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01
+ 0.01 0.01 0.005 0.005 0.005 0.001 0.001 0.001 0.01 0.01 0.01 0.005 0.005
+ 0.005 0.001 0.001 0.001]
+param_solver,['lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam'
+ 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam'
+ 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs'
+ 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd' 'adam' 'lbfgs' 'sgd'
+ 'adam']
+params,[{'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'logistic', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'tanh', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.005, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.0001, 'learning_rate_init': 0.001, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.01, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.005, 'solver': 'adam'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'lbfgs'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'sgd'}, {'activation': 'relu', 'alpha': 0.001, 'learning_rate_init': 0.001, 'solver': 'adam'}]
+split0_test_score,[0.9425 0.9575 0.9625 0.9425 0.96   0.9625 0.9425 0.9525 0.955  0.95
+ 0.9575 0.9625 0.95   0.9575 0.9625 0.95   0.9525 0.955  0.9475 0.9575
+ 0.9625 0.9475 0.9575 0.9625 0.9475 0.9525 0.955  0.9475 0.9575 0.96
+ 0.9475 0.955  0.965  0.9475 0.95   0.96   0.9375 0.9575 0.96   0.9375
+ 0.9525 0.965  0.9375 0.95   0.96   0.945  0.9575 0.96   0.945  0.955
+ 0.965  0.945  0.95   0.96   0.9425 0.9575 0.9575 0.9425 0.9575 0.9675
+ 0.9425 0.95   0.96   0.955  0.9575 0.9625 0.955  0.9575 0.9675 0.955
+ 0.95   0.96   0.9525 0.9575 0.9625 0.9525 0.9575 0.9675 0.9525 0.95
+ 0.96  ]
+split1_test_score,[0.9625 0.9525 0.9475 0.9625 0.95   0.955  0.9625 0.9525 0.96   0.96
+ 0.9525 0.9475 0.96   0.95   0.9575 0.96   0.9525 0.96   0.955  0.9525
+ 0.9475 0.955  0.95   0.9575 0.955  0.9525 0.96   0.9425 0.9525 0.95
+ 0.9425 0.95   0.9525 0.9425 0.9525 0.9525 0.95   0.9525 0.95   0.95
+ 0.95   0.9525 0.95   0.9525 0.95   0.9425 0.9525 0.95   0.9425 0.95
+ 0.9525 0.9425 0.9525 0.95   0.9525 0.9525 0.9575 0.9525 0.9525 0.95
+ 0.9525 0.9525 0.9575 0.95   0.9525 0.9575 0.95   0.9525 0.95   0.95
+ 0.9525 0.955  0.95   0.9525 0.955  0.95   0.9525 0.95   0.95   0.9525
+ 0.955 ]
+split2_test_score,[0.9475 0.96   0.96   0.9475 0.96   0.965  0.9475 0.9525 0.9625 0.9425
+ 0.96   0.9675 0.9425 0.96   0.965  0.9425 0.9525 0.965  0.955  0.96
+ 0.9675 0.955  0.96   0.965  0.955  0.9525 0.965  0.95   0.9625 0.96
+ 0.95   0.9525 0.96   0.95   0.955  0.9675 0.945  0.9625 0.96   0.945
+ 0.9525 0.96   0.945  0.955  0.9675 0.9475 0.9625 0.96   0.9475 0.9525
+ 0.96   0.9475 0.955  0.9675 0.945  0.9625 0.97   0.945  0.9525 0.965
+ 0.945  0.955  0.965  0.9525 0.9625 0.965  0.9525 0.9525 0.965  0.9525
+ 0.955  0.965  0.9525 0.9625 0.965  0.9525 0.9525 0.9625 0.9525 0.955
+ 0.965 ]
+split3_test_score,[0.945  0.9475 0.9525 0.945  0.9425 0.9525 0.945  0.9325 0.95   0.9475
+ 0.9475 0.9525 0.9475 0.9425 0.955  0.9475 0.9325 0.95   0.935  0.9475
+ 0.9525 0.935  0.9425 0.955  0.935  0.9325 0.95   0.9475 0.95   0.955
+ 0.9475 0.945  0.9525 0.9475 0.935  0.9475 0.9425 0.95   0.955  0.9425
+ 0.945  0.9525 0.9425 0.935  0.9475 0.94   0.95   0.955  0.94   0.945
+ 0.9525 0.94   0.935  0.9475 0.9525 0.95   0.9575 0.9525 0.95   0.955
+ 0.9525 0.935  0.955  0.955  0.95   0.9575 0.955  0.95   0.955  0.955
+ 0.935  0.96   0.9525 0.95   0.9575 0.9525 0.95   0.9575 0.9525 0.935
+ 0.96  ]
+split4_test_score,[0.9475 0.9525 0.95   0.9475 0.9525 0.9525 0.9475 0.95   0.9525 0.9425
+ 0.9525 0.9475 0.9425 0.9525 0.95   0.9425 0.95   0.9525 0.93   0.9525
+ 0.9475 0.93   0.9525 0.95   0.93   0.95   0.9525 0.955  0.95   0.9575
+ 0.955  0.9525 0.95   0.955  0.96   0.9475 0.94   0.95   0.9575 0.94
+ 0.9525 0.95   0.94   0.96   0.9475 0.9475 0.95   0.9575 0.9475 0.9525
+ 0.95   0.9475 0.96   0.9475 0.94   0.95   0.96   0.94   0.9525 0.955
+ 0.94   0.9575 0.955  0.95   0.95   0.96   0.95   0.9525 0.95   0.95
+ 0.9575 0.9575 0.9425 0.95   0.96   0.9425 0.9525 0.95   0.9425 0.9575
+ 0.955 ]
+mean_test_score,[0.949  0.954  0.9545 0.949  0.953  0.9575 0.949  0.948  0.956  0.9485
+ 0.954  0.9555 0.9485 0.9525 0.958  0.9485 0.948  0.9565 0.9445 0.954
+ 0.9555 0.9445 0.9525 0.958  0.9445 0.948  0.9565 0.9485 0.9545 0.9565
+ 0.9485 0.951  0.956  0.9485 0.9505 0.955  0.943  0.9545 0.9565 0.943
+ 0.9505 0.956  0.943  0.9505 0.9545 0.9445 0.9545 0.9565 0.9445 0.951
+ 0.956  0.9445 0.9505 0.9545 0.9465 0.9545 0.9605 0.9465 0.953  0.9585
+ 0.9465 0.95   0.9585 0.9525 0.9545 0.9605 0.9525 0.953  0.9575 0.9525
+ 0.95   0.9595 0.95   0.9545 0.96   0.95   0.953  0.9575 0.95   0.95
+ 0.959 ]
+std_test_score,[0.007      0.0043589  0.00578792 0.007      0.00659545 0.00524404
+ 0.007      0.00781025 0.00463681 0.00644205 0.0043589  0.00812404
+ 0.00644205 0.00612372 0.00533854 0.00644205 0.00781025 0.00538516
+ 0.01029563 0.0043589  0.00812404 0.01029563 0.00612372 0.00533854
+ 0.01029563 0.00781025 0.00538516 0.00406202 0.00484768 0.00374166
+ 0.00406202 0.00339116 0.00561249 0.00406202 0.00842615 0.00774597
+ 0.00430116 0.00484768 0.00374166 0.00430116 0.00291548 0.00561249
+ 0.00430116 0.00842615 0.00796869 0.00291548 0.00484768 0.00374166
+ 0.00291548 0.00339116 0.00561249 0.00291548 0.00842615 0.00796869
+ 0.00514782 0.00484768 0.00484768 0.00514782 0.00244949 0.00663325
+ 0.00514782 0.00790569 0.00374166 0.00223607 0.00484768 0.00291548
+ 0.00223607 0.00244949 0.0074162  0.00223607 0.00790569 0.00331662
+ 0.00387298 0.00484768 0.00353553 0.00387298 0.00244949 0.00689202
+ 0.00387298 0.00790569 0.00374166]
+rank_test_score,[58 34 25 58 37 10 58 67 21 61 34 22 61 44  8 61 67 16 73 34 22 73 44  8
+ 73 67 16 61 25 13 61 46 18 61 48 24 79 25 13 79 48 18 79 48 25 73 25 13
+ 73 46 18 73 48 25 70 25  1 70 37  6 70 52  6 41 25  1 41 37 10 41 52  4
+ 52 25  3 52 37 10 52 52  5]
