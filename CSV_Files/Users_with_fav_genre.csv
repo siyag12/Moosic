@@ -1,0 +1,21 @@
+User ID,Playlist Size,Happy,Sad,Edm,Rock,Death-Metal,Fav Genre
+user_1,98,6,15,5,56,16,rock
+user_2,59,2,4,35,18,0,edm
+user_3,21,0,4,1,15,1,rock
+user_4,41,2,1,5,28,5,rock
+user_5,65,3,8,5,43,6,rock
+user_6,98,7,56,25,8,2,sad
+user_7,49,3,5,3,29,9,rock
+user_8,12,0,1,0,6,5,rock
+user_9,12,0,2,0,3,5,death-metal
+user_10,2,0,2,0,0,0,sad
+user_11,100,3,23,20,52,2,rock
+user_12,84,7,21,19,29,8,rock
+user_13,100,2,55,10,30,3,sad
+user_14,100,1,46,26,27,0,sad
+user_15,100,1,45,8,46,0,rock
+user_16,100,0,17,22,60,1,rock
+user_17,100,5,3,2,80,10,rock
+user_18,100,0,31,35,34,0,edm
+user_19,38,13,10,10,3,2,happy
+user_20,46,1,4,4,37,0,rock
